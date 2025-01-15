@@ -1,2 +1,4 @@
 In Addition file
-We are adding thid file inside our local repository.
+We are adding thd file inside our local repository.
+Updated after commit
+Changed after staging
